@@ -1,0 +1,4 @@
+# Template de login
+
+usuario = input('Usuário: ')
+senha = input('Senha: ')
