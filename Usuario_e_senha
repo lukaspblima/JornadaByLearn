@@ -1,4 +1,6 @@
-# Template de login
-
-usuario = input('Usuário: ')
-senha = input('Senha: ')
+print('Diga AMIGO e entre')
+usuario = input()
+if usuario == 'AMIGO':
+  print('Bem vindo, amigo!')
+else:
+    print('Você não é O Amigo! Quem é você?')
